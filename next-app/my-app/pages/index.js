@@ -198,9 +198,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to my AtomX!</h1>
+          <h1 className={styles.title}>Welcome to my page!</h1>
           <div className={styles.description}>
-            Its a decentralized network for developers in Crypto created by Meiram Sopy.
+            Its a decentralized network for developers in WEB 3.0.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
