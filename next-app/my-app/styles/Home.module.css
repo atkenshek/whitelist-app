@@ -32,15 +32,13 @@
   font-size: 1.2rem;
 }
 
-.avatar {
+/* /* .avatar {
   width: 90px;
   height: 120px;
   float: left;
-  /* margin: auto 50px 500px 200px; */
-  vertical-align:middle;
+  margin: auto 50px 500px 200px;
+  vertical-align:middle; */
   
- 
-}
 
 .button {
   border-radius: 4px;

@@ -196,9 +196,7 @@ export default function Home() {
         <meta name="description" content="Whitelist-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>
-          <img className={styles.avatar} src="./avatar.jpg" />
-        </div>
+    
       <div className={styles.main}>
         <div>
           <h1 className={styles.title}>Welcome to my page!</h1>
